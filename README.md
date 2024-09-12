@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 AuriaCarvalho
 
-<!--
-**Auriacarvalho/auriacarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estagiária e estudante de Bacharelado em Ciências de Dados pela UNIVESP, apaixonada por tecnologia e desenvolvimento de sistemas.
 
-Here are some ideas to get you started:
+📚 Cursos e habilidades:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Banco de Dados
+Estrutura de Dados
+Ética no Desenvolvimento de Sistemas
+Administração de Banco de Dados
+Linguagem de Programação Python
+Álgebra Linear
+Projeto de Sistemas Web
+JavaScript para Iniciantes
+PHP e MySQL para Iniciantes
+Desenvolvimento Orientado a Objetos com Python
+Rotinas e Serviços Organizacionais
+
+
+💻 Sempre em busca de novos conhecimentos e desafios para aplicar na área de ciência de dados e desenvolvimento de sistemas.
