@@ -1,4 +1,4 @@
-👋 AuriaCarvalho
+👋oLá eu sou AuriaCarvalho
 
 🎓 Estagiária e estudante de Bacharelado em Ciências de Dados pela UNIVESP, apaixonada por tecnologia e desenvolvimento de sistemas.
 
