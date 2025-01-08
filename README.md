@@ -1,6 +1,6 @@
 👋oLá eu sou AuriaCarvalho Sou da Grande São Paulo
 
-🎓 Estagiária e estudante de Bacharelado em Ciências de Dados pela UNIVESP, apaixonada por tecnologia e desenvolvimento de sistemas.
+🎓 Estudante de bacharel em tecnologia da informação com ênfase em análise de dados possui conhecimento em banco de dados SQL e MYSQL linguagens de programação como Python e javascript além de experiência no desenvolvimento de sistemas web e APIs REST utilizando NODE.JS e EXPRESS familiaridade com ferramentas de visualização de dados como EXCEL e POWER BI e manipulação de grandes volumes de dados para análise geração de strings estratégicos proativa com habilidades de resoluções de problemas de trabalho em equipe e foco em Resultados buscam oportunidades para aplicar e aprimorar habilidades técnicas em projetos de desafiadores na área de ciências de dados e desenvolvimento de software.
 
 📚 Cursos e habilidades:
 
